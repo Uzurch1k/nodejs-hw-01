@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Carlton Kunze",
+    "phone": "512.901.4995 x7397",
+    "email": "Georgette_MacGyver@yahoo.com",
+    "job": "Global Accountability Supervisor"
+  },
+  {
+    "name": "Daisy Wisozk",
+    "phone": "(887) 808-5561",
+    "email": "Cleo18@gmail.com",
+    "job": "Future Applications Representative"
+  },
+  {
+    "name": "Lee Bayer",
+    "phone": "537-382-5295 x29940",
+    "email": "Lyda87@gmail.com",
+    "job": "District Program Architect"
+  },
+  {
+    "name": "Percy MacGyver",
+    "phone": "(365) 416-4224 x28445",
+    "email": "Ellen.Harber41@gmail.com",
+    "job": "National Research Consultant"
+  },
+  {
+    "name": "Maryann Romaguera",
+    "phone": "1-261-793-0450 x7208",
+    "email": "Mortimer_Zieme61@yahoo.com",
+    "job": "Principal Directives Designer"
+  }
+]
